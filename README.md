@@ -22,29 +22,29 @@ JULY 2017 - SEPTEMBER 2017
 
 # ACADEMIC ACHIEVEMENTS
 ## 2018:
-Awarded ‘The Alan Smailes Memorial Prize for Academic Achievement’ at Bingley Grammar School
-Invitation to Royal Society Student Conference (Partnership Grants Scheme) due to Nuffield Research Placement (1 of 6)
+- Awarded ‘The Alan Smailes Memorial Prize for Academic Achievement’ at Bingley Grammar School
+- Invitation to Royal Society Student Conference (Partnership Grants Scheme) due to Nuffield Research Placement (1 of 6)
 ## 2017:
-UKMT Senior Kangaroo - Gold
-Oxford TCS Computing Challenge- 1 of 9 to gain a distinction
+- UKMT Senior Kangaroo - Gold
+- Oxford TCS Computing Challenge- 1 of 9 to gain a distinction
 ## 2016:
-Bebras Computing Challenge - finishing within the top 10%
+- Bebras Computing Challenge - finishing within the top 10%
 
 # PROJECTS
 ## 2018:
-Short project using an Ant Colony optimisation to get a good solution to the travelling salesman problem
-Investigation into Sudoku Solving Algorithms (Backtracking & Crook’s) as part of A-Level in Computer Science
+- Short project using an Ant Colony optimisation to get a good solution to the travelling salesman problem
+- Investigation into Sudoku Solving Algorithms (Backtracking & Crook’s) as part of A-Level in Computer Science
 ## 2017:
-Worked on a project using machine learning techniques to classify tweets based on opinion - part of Nuffield Research Placement
+- Worked on a project using machine learning techniques to classify tweets based on opinion - part of Nuffield Research Placement
 
 # SKILLS
 ## Teamworking:
-I have played Rugby League for 6 years, going so far as to represent the Yorkshire u18s team in 2016. I now play for the university Rugby Union team. 
+- I have played Rugby League for 6 years, going so far as to represent the Yorkshire u18s team in 2016. I now play for the university Rugby Union team. 
 ## Mentoring:
-Mentored year 7s who struggled with reading in year 10, and again two years later - involved half an hour reading sessions before school twice a week
-Participated in the CUSU Mentoring scheme 2019: being responsible for the welfare and enrichment of a prospective student of a disadvantaged background during a two night stay in Cambridge.
+- Mentored year 7s who struggled with reading in year 10, and again two years later - involved half an hour reading sessions before school twice a week
+- Participated in the CUSU Mentoring scheme 2019: being responsible for the welfare and enrichment of a prospective student of a disadvantaged background during a two night stay in Cambridge.
 
-# Programming Languages:
+# PROGRAMMING LANGUAGES:
 - Java
 - Python, with additional experience in Jupyter Notebooks
 - SML
