@@ -1,23 +1,24 @@
 #EDUCATION
-##Queens’ College, Cambridge University — BA Computer Science
-####OCTOBER 2018 - PRESENT
-##Bingley Grammar School
-####SEPTEMBER 2011 - JUNE 2018
-###A-Level: A* Maths, A* Further Maths, A* Physics, A* Computer Science
-###GCSE: 9A*, 3A, 1B including A* in Maths & A in English
+Queens’ College, Cambridge University — BA Computer Science
+- OCTOBER 2018 - PRESENT
+Bingley Grammar School
+- SEPTEMBER 2011 - JUNE 2018
+  - A-Level: A* Maths, A* Further Maths, A* Physics, A* Computer Science
+  - GCSE: 9A*, 3A, 1B including A* in Maths & A in English
 
 #EXPERIENCE
-##Airedale NHS FT, West Yorkshire — Accounts Assistant
-####JULY 2018 - SEPTEMBER 2018
-###RESPONSIBLE FOR: Processing and paying invoices; overcoming longstanding pharmacy backlog
-###ACHIEVED: I succeeded in overcoming the pharmacy backlog and was able to assist peers in updating other systems?
-###TEAMWORK: Working within a small team, assisting others as necessary, especially after the change in system, ensured all work was well organised so as to allow the efficient completion of tasks, mentored colleagues who had difficulty understanding/using the new system, working to tight deadlines
-##University of Bradford, West Yorkshire — Nuffield Research Placement
-####JULY 2017 - SEPTEMBER 2017
-###RESPONSIBLE FOR: Producing a well-documented classification program that could be applied to other projects
-###ACHIEVED: I preprocessed, trained and tested a tweet classifier which would gain insight into public opinion.
-###TEAMWORK: I regularly met with my project supervisor to discuss any concerns as soon as they arose, allowing the project to develop smoothly. 
-###COMMENDATIONS: I was put forward for and received an invite to the Royal Society Student Conference 2018 as a result of my project
+Airedale NHS FT, West Yorkshire — Accounts Assistant
+- JULY 2018 - SEPTEMBER 2018
+RESPONSIBLE FOR: Processing and paying invoices; overcoming longstanding pharmacy backlog
+ACHIEVED: I succeeded in overcoming the pharmacy backlog and was able to assist peers in updating other systems?
+TEAMWORK: Working within a small team, assisting others as necessary, especially after the change in system, ensured all work was well organised so as to allow the efficient completion of tasks, mentored colleagues who had difficulty understanding/using the new system, working to tight deadlines
+
+University of Bradford, West Yorkshire — Nuffield Research Placement
+- JULY 2017 - SEPTEMBER 2017
+RESPONSIBLE FOR: Producing a well-documented classification program that could be applied to other projects
+ACHIEVED: I preprocessed, trained and tested a tweet classifier which would gain insight into public opinion.
+TEAMWORK: I regularly met with my project supervisor to discuss any concerns as soon as they arose, allowing the project to develop smoothly. 
+COMMENDATIONS: I was put forward for and received an invite to the Royal Society Student Conference 2018 as a result of my project
 
 #ACADEMIC ACHIEVEMENTS
 ##2018:
