@@ -1,7 +1,7 @@
 # EDUCATION
 ### Queens’ College, Cambridge University — BA Computer Science
 OCTOBER 2018 - PRESENT
-### Bingley Grammar School
+### Bingley Grammar School, West Yorkshire
 SEPTEMBER 2011 - JUNE 2018
 - A-Level: A* Maths, A* Further Maths, A* Physics, A* Computer Science
 - GCSE: 9A\*, 3A, 1B including A\* in Maths & A in English
