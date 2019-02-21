@@ -3,7 +3,7 @@
 OCTOBER 2018 - PRESENT
 ### Bingley Grammar School, West Yorkshire
 SEPTEMBER 2011 - JUNE 2018
-- A-Level: A* Maths, A* Further Maths, A* Physics, A* Computer Science
+- A-Level: 4A\*s in Maths, Further Maths, Physics & Computer Science
 - GCSE: 9A\*s, 3As & 1B, including A\* in Maths & A in English
 
 # EXPERIENCE
